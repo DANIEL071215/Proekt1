@@ -1,0 +1,8 @@
+C:\програма\PrakticheskiZadachi\Zad2\bin\Debug\Zad2.exe.config
+C:\програма\PrakticheskiZadachi\Zad2\bin\Debug\Zad2.exe
+C:\програма\PrakticheskiZadachi\Zad2\bin\Debug\Zad2.pdb
+C:\програма\PrakticheskiZadachi\Zad2\obj\Debug\Zad2.csproj.AssemblyReference.cache
+C:\програма\PrakticheskiZadachi\Zad2\obj\Debug\Zad2.csproj.SuggestedBindingRedirects.cache
+C:\програма\PrakticheskiZadachi\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+C:\програма\PrakticheskiZadachi\Zad2\obj\Debug\Zad2.exe
+C:\програма\PrakticheskiZadachi\Zad2\obj\Debug\Zad2.pdb
